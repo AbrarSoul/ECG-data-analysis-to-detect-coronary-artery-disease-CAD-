@@ -23,4 +23,6 @@
 
 **3.4** The age and ΔRWA do not correlate significantly in patients with CAD and without CAD when tested separately. Test the situation in total population. Give reasons for your finding.
 
+# 4. Estimating the accuracy of diagnostic classifiers
+
 
