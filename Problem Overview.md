@@ -15,12 +15,12 @@
 
 # 3. Correlation and regression between two variables
 
-**3.1** Investigate whether there is a statistically significant linear correlation between ST depression, ST/HR index, and ΔRWA in both patients with CAD and those without CAD.
+**3.1** Investigate whether there is a statistically significant linear correlation between ST depression, ST/HR index, and ΔRWA in both a) patients with CAD and b) patients without CAD.
 
-**3.2** Determine the equation and significance level for the linear regression between maximum heart rate (maxHR) and age in patients with and without CAD. Utilize the formula for predicted maximum heart rate (205 - 0.5 x age or 220 - age) commonly used in clinical practice. Provide plots illustrating the relationship.
+**3.2** In clinical practice, the predicted maximum heart rate = 205 - 0.5 x age (or =220-age). This is used as a target heart rate when performing clinical exercise test. Give the equation and significance level for linear regression between maxHR and age a) in patient without CAD b) in patients with CAD. Presents also the plots
 
 **3.3** Conduct regression analysis to explore the relationship between maxHR and ST depression, as well as between maxHR and ST/HR index.
 
-**3.4** Assess whether age and ΔRWA exhibit significant correlation when analyzed together in the total population, considering patients with and without CAD. Offer explanations for any observed differences from separate analyses.
+**3.4** The age and ΔRWA do not correlate significantly in patients with CAD and without CAD when tested separately. Test the situation in total population. Give reasons for your finding.
 
 
