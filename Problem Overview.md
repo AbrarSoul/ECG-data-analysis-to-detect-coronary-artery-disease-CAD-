@@ -25,4 +25,5 @@
 
 # 4. Estimating the accuracy of diagnostic classifiers
 
-
+**4.1** In literature partition values for the diagnostic classifiers for positive test results are: ST depression  0.10 mV, ST/HR index  1.60μV/beats/min, ΔRWA  0.0 mV. Calculate the sensitivity, specificity, diagnostic accuracy, and diagnostic performance for each classifier a) in total population b) in female population.
+The predictive value of a diagnostic method with respect to diagnosed disease is an important evaluation in doctor's point of view. Calculate the predictive value of positive test response (PV+) and predictive value of negative test response (PV-) when the criterion for positive test response is defined to be ST/HR index  1.60μV/beats/min c) in total population d) in female population.
